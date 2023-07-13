@@ -1,0 +1,198 @@
+{
+    "UserType": {
+        "title": "User Types",
+        "image": "/static/help_images/user_type.png",
+        "description": "This is used to assign the authority to users",
+        "create_image": "/static/help_images/create_user_type.png",
+        "create_description": "Create and update User Type",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export User Type list to CSV file"
+    },
+    "User": {
+        "title": "User",
+        "image": "/static/help_images/user.png",
+        "description": "Manage User list",
+        "create_image": "/static/help_images/create_user.png",
+        "create_description": "Create and update User",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export User list to CSV file"
+    },
+    "PackingType": {
+        "title": "Packing Types",
+        "image": "/static/help_images/packing_type.png",
+        "description": "Manage Packing Type",
+        "create_image": "/static/help_images/create_packing_type.png",
+        "create_description": "Create and update Packing Type",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export Packing Type list to CSV file"
+    },
+    "UnitType": {
+        "title": "Unit Types",
+        "image": "/static/help_images/unit_type.png",
+        "description": "Manage Packing Type",
+        "create_image": "/static/help_images/create_unit_type.png",
+        "create_description": "Create and update Unit Type",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export Unit Type list to CSV file"
+    },
+    "Objectives": {
+        "title": "Objectives",
+        "image": "/static/help_images/objective.png",
+        "description": "Manage Objective",
+        "create_image": "/static/help_images/create_objective.png",
+        "create_description": "Create and update Objective",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export Objective list to CSV file"
+    },
+    "AnalysisTypes": {
+        "title": "AnalysisTypes",
+        "image": "/static/help_images/analysis_type.png",
+        "description": "Manage AnalysisTypes",
+        "create_image": "/static/help_images/create_analysis_type.png",
+        "create_description": "Create and update AnalysisType",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export AnalysisType list to CSV file"
+    },
+    "Client": {
+        "title": "Client",
+        "image": "/static/help_images/client.png",
+        "description": "Manage Client",
+        "create_image": "/static/help_images/create_client.png",
+        "create_description": "Create and update Client",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export Client list to CSV file"
+    },
+    "Material": {
+        "title": "Material",
+        "image": "/static/help_images/material.png",
+        "description": "Manage Material",
+        "create_image": "/static/help_images/create_material.png",
+        "create_description": "Create and update Material",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export Material list to CSV file"
+    },
+    "CertificateType": {
+        "title": "Certificate Types",
+        "image": "/static/help_images/certificate_type.png",
+        "description": "Manage Certificate Types",
+        "create_image": "/static/help_images/create_certificate_type.png",
+        "create_description": "Create and update Certificate Type",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export Certificate Type list to CSV file"
+    },
+    "CertificateTemplate": {
+        "title": "Certificate Templates",
+        "image": "/static/help_images/certificate_template.png",
+        "description": "Manage Certificate Templates",
+        "create_image": "/static/help_images/create_certificate_template.png",
+        "create_description": "Create and update Certificate Template",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export Certificate Template list to CSV file",
+        "product_data_image": "/static/help_images/product_data_certificate_template.png",
+        "product_data_description": "Product data",
+        "table_columns_image": "/static/help_images/table_columns_certificate_template.png",
+        "table_columns_description": "Table Columns",
+        "freetext_image": "/static/help_images/freetext_certificate_template.png",
+        "freetext_description": "Free Text",
+        "copy_row_image": "/static/help_images/copy_row_certificate_template.png",
+        "copy_row_description": "Copy row"
+    },
+    "SampleType": {
+        "title": "Sample Types",
+        "image": "/static/help_images/sample_type.png",
+        "description": "Manage Sample Types",
+        "create_image": "/static/help_images/create_sample_type.png",
+        "create_description": "Create and update Sample Type",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export Sample Type list to CSV file"
+    },
+    "Reason": {
+        "title": "Reason",
+        "image": "/static/help_images/reason.png",
+        "description": "Manage Reason",
+        "create_image": "/static/help_images/create_reason.png",
+        "create_description": "Create and update Reason",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export Reason list to CSV file"
+    },
+    "Settings": {
+        "title": "Settings",
+        "image": "/static/help_images/settings.png",
+        "description": "Manage Date Format"
+    },
+    "OreType": {
+        "title": "Ore Types",
+        "image": "/static/help_images/ore_type.png",
+        "description": "Manage Ore Types",
+        "create_image": "/static/help_images/create_ore_type.png",
+        "create_description": "Create and update Ore Type",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export Ore Type list to CSV file"
+    },
+    "GeologyLabObjective": {
+        "title": "Geology-Lab-Objectives",
+        "image": "/static/help_images/geology_lab_objective.png",
+        "description": "Manage Geology-Lab-Objectivea",
+        "create_image": "/static/help_images/create_geology_lab_objective.png",
+        "create_description": "Create and update Geology-Lab-Objective",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export Geology-Lab-Objective list to CSV file"
+    },
+    "InputLaboratory": {
+        "title": "Input Laboratory",
+        "image": "/static/help_images/input_laboratory.png",
+        "description": "Input Laboratory",
+        "create_image": "/static/help_images/create_input_laboratory.png",
+        "create_description": "Create and update Input Laboratory",
+        "import_description": "Import CSV file into database",
+        "export_description": "Export Input Laboratory list to CSV file",
+        "import_csv_image": "/static/help_images/import_csv_input_laboratory.png",
+        "import_csv_description": "Import CSV file into database",
+        "client_info_image": "/static/help_images/clientinfo_input_laboratory.png",
+        "client_info_description": "View client information of selected laboratory",
+        "analysis_values_image": "/static/help_images/analysisvalues_input_laboratory.png",
+        "analysis_values_description": "Input analysis values and view history values",
+        "weight_image": "/static/help_images/weight_input_laboratory.png",
+        "weight_description": "Input weight of selected laboratory",
+        "lot_number_image": "/static/help_images/lot_number_input_laboratory.png",
+        "lot_number_description": "Input lot number of selected laboratory",
+        "mbutton_image": "/static/help_images/mbutton_input_laboratory.png",
+        "mbutton_description": "Input values by clicking 'M' button",
+        "sort_image": "/static/help_images/sort_input_laboratory.png",
+        "sort_description": "Sort items by field",
+        "download_certificate_image": "/static/help_images/download_certificate_input_laboratory.png",
+        "download_certificate_description": "Download certificate of selected laboratory"
+    },
+    "InputGeology": {
+        "title": "Input Geology",
+        "image": "/static/help_images/input_geology.png",
+        "description": "Input Geology",
+        "create_geology": "Create empty geology",
+        "general_image": "/static/help_images/general_input_geology.png",
+        "general_description": "Create and update Input Geology",
+        "markscheiderei_image": "/static/help_images/markscheiderei_input_geology.png",
+        "markscheiderei_description": "Input markscheiderei values",
+        "laboratory_image": "/static/help_images/laboratory_input_geology.png",
+        "laboratory_description": "Input Laboratory values",
+        "geology_image": "/static/help_images/geology_input_geology.png",
+        "geology_description": "Input geology values",
+        "export_image": "/static/help_images/export_input_geology.png",
+        "export_description": "Export Input Geology list to CSV file",
+        "shift_image": "/static/help_images/confirm_shift_input_geology.png",
+        "shift_description": "Shift geology with reason",
+        "shift_button_image": "/static/help_images/shift_button_input_geology.png",
+        "shift_button_description": "Buttons to shift previous and next step",
+        "shift_history_image": "/static/help_images/shift_history_input_geology.png",
+        "shift_history_description": "View shift histories"
+    },
+    "AnalysisLaboratory": {
+        "title": "Analysis Laboratory",
+        "image": "/static/help_images/analysis_laboratory.png",
+        "description": "Analysis Laboratory"
+    },
+    "AnalysisGeology": {
+        "title": "Analysis Geology",
+        "image": "/static/help_images/analysis_geology.png",
+        "description": "Analysis Geology"
+    }
+}

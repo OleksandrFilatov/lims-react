@@ -1,0 +1,265 @@
+.svg-white {
+    filter: brightness(0) invert(1);
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+/* table {
+    border: 1px solid #E6E8F0 !important;
+}
+
+thead,
+tbody,
+tfoot,
+tr,
+td,
+th {
+    border-width: 1px !important;
+} */
+
+.bordered-table {
+    border: 1px solid #E6E8F0 !important;
+}
+
+.bordered-table thead,
+.bordered-table tbody,
+.bordered-table tfoot,
+.bordered-table tr,
+.bordered-table td,
+.bordered-table th {
+    border-width: 1px !important;
+}
+
+.MuiModal-root {
+    overflow: auto !important;
+}
+
+.borderless-table thead tr th,
+.borderless-table tbody tr td {
+    border: none;
+    border-collapse: unset;
+}
+
+.borderless-table {
+    border: none !important;
+    border-collapse: unset;
+}
+
+ul.admin_settings {
+    list-style-type: none;
+    padding-left: 0;
+    background-color: #ebedef;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+ul.admin_settings>li {
+    width: 100%;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+ul.admin_settings>li.active {
+    font-weight: bold;
+}
+
+ul.admin_settings>li:hover {
+    background-color: #dfdfdf;
+}
+
+div.setting_content {
+    background-color: #ebedef;
+    border-radius: 5px;
+    min-height: 500px;
+}
+
+.format-item {
+    border: 1px solid #d3d3d3;
+    border-radius: 5px;
+    padding: 15px 20px;
+}
+
+.format-item .custom_checkbox {
+    width: 25px;
+    height: 25px;
+    border: 1px solid rgb(190, 36, 36);
+    border-radius: 3px;
+    cursor: pointer;
+    background-color: rgb(190, 36, 36);
+}
+
+.format-item .custom_checkbox.active {
+    border: 1px solid green !important;
+    background-color: green !important;
+}
+
+.format-item .format_text {
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+a:hover {
+    color: #ffb93a !important;
+}
+
+.color-white {
+    color: white !important;
+}
+
+.background-gray {
+    background-color: gray !important;
+}
+
+.background-green {
+    background-color: green !important;
+}
+
+.background-red {
+    background-color: red !important;
+}
+
+.font-size--small {
+    font-size: 12px !important;
+}
+
+.border-dark {
+    border: 1px solid #6e6d6d !important;
+    border-radius: 2px;
+}
+
+.transform-scale-1-1 {
+    transform: scale(1, 1) !important;
+}
+
+.flex-direction-column {
+    flex-direction: column !important;
+}
+
+.bold {
+    font-weight: 500;
+}
+
+.text-decoration-underline {
+    text-decoration: underline !important;
+}
+
+.test {
+    margin: 20px;
+}
+
+.certificate-doc table td {
+    line-height: 1.2rem !important;
+}
+
+.certificate-doc th>div {
+    line-height: 1rem !important;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.ctable {
+    line-height: 5px !important;
+    font-size: 13px !important;
+}
+
+.ctable .table-responsive {
+    line-height: 5px !important;
+    font-size: 12px;
+}
+
+.svg-black {
+    filter: brightness(1) invert(0);
+}
+
+.svg-gray {
+    filter: brightness(1) invert(1);
+}
+
+body {
+    background-color: #ebedef !important;
+}
+
+@media screen and (max-width: 767px) {
+
+    .help-navigation {
+        margin-left: -290px;
+    }
+
+    .help_content {
+        margin-left: 0;
+    }
+
+    .justify-content-xs-start {
+        justify-content: start !important;
+    }
+
+    .justify-content-xs-center {
+        justify-content: center !important;
+    }
+}
+
+.MuiTabs-scroller {
+    overflow: auto !important;
+}
+
+.nav-menu {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.root-menu {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.root-menu>a {
+    color: #484848 !important;
+    font-weight: 600;
+}
+
+.root-menu.active>a {
+    color: #ffb93a !important;
+}
+
+.nav-link {
+    padding: 5px 15px;
+}
+
+.nav-link.active {
+    border-left: 2px solid #ffb93a !important;
+}
+
+.nav-link a {
+    display: block;
+    color: #3c3c3c;
+}
+
+.nav-link.active a {
+    color: #ffb93a !important;
+}
+
+.help-navigation {
+    position: fixed;
+    top: 87px;
+    left: 0;
+    width: 290px;
+    height: 100%;
+    border-right: 1px solid #eee;
+    background-color: #F9FAFC;
+    transition: all 0.3s;
+}
+
+.help-navigation.active {
+    margin-left: 0 !important;
+}
+
+.help_content {
+    margin-left: 290px;
+}
